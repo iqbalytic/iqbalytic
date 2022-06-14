@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iqbalytic
 - 👀 I’m interested in analytic and engineering
-- 🌱 I’m currently learning python programming and advance SQL
-- 💞️ I’m looking to collaborate on buikding startup and company
+- 🌱 I’m currently learning Python programming and advance SQL
+- 💞️ I’m looking to collaborate on build system automation with Python
 - 📫 How to reach me please add my LinkedIn https://www.linkedin.com/in/miqkhan/
 
 <!---
